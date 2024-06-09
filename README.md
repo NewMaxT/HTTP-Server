@@ -1,5 +1,6 @@
-[![Building](https://github.com/NewMaxT/HTTP-Server/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/NewMaxT/HTTP-Server/actions/workflows/cmake-multi-platform.yml)
-[![Windows](https://github.com/NewMaxT/HTTP-Server/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/NewMaxT/HTTP-Server/actions/workflows/cmake-single-platform.yml) | Windows Build
+[![Building](https://github.com/NewMaxT/HTTP-Server/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/NewMaxT/HTTP-Server/actions/workflows/cmake-multi-platform.yml)<br>
+Windows Build<br>
+[![Windows](https://github.com/NewMaxT/HTTP-Server/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/NewMaxT/HTTP-Server/actions/workflows/cmake-single-platform.yml) 
 # HTTP Server in C++
 
 This is a simple yet efficient HTTP server implemented in C++ that is compatible with both Linux and Windows 10+ operating systems.

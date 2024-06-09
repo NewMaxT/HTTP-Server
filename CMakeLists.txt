@@ -3,4 +3,10 @@ project(HTTP_Server)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(HTTP_Server "main.cpp")
+if (WIN32)
+    link_libraries (ws2_32 wsock32)
+endif (WIN32)
+
+add_executable(HTTP_Server "main.cpp"
+        TCP_Server.cpp
+        TCP_Server.h)

@@ -10,7 +10,7 @@ This is a simple yet efficient HTTP server implemented in C++ that is compatible
 
 - C++11 or higher
 - CMake (for building the project)
-- Linux / Windows !0 or newer
+- Linux / Windows 10 or newer
 
 ## Configuration
 

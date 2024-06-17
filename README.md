@@ -11,8 +11,6 @@ This is a simple yet efficient HTTP server implemented in C++ that is compatible
 
 ## Requirements
 
-- C++11 or higher
-- CMake (for building the project)
 - Linux / Windows 10 or newer
 
 ## Configuration
